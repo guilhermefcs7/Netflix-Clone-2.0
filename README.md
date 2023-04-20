@@ -1,5 +1,9 @@
 # Netflix Clone 2.0
 
+---
+
+Deploy on vercel : https://netflix-clone-2-0-gamma.vercel.app/auth
+
 Fullstack project created as a way to improve the use of React using a system made with next.js, typescript and Prisma as database.
 
 ### Project Status
