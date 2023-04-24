@@ -39,7 +39,7 @@ This project consists nothing more than an evolution of a netflix clone made by 
 The following technologies were used in the construction of the project:
 
 - [Node.Js](https://nodejs.org/en/)
-- [Next Auth] (https://next-auth.js.org/)
+- [Next Auth](https://next-auth.js.org/)
 - [React.Js](https://pt-br.reactjs.org/)
 - [Next.Js](https://nextjs.org/)
 - [Eslint](https://eslint.org/)
